@@ -20,10 +20,10 @@ description: "Your weekly roundup of Bitcoin, crypto markets, blockchain tech, a
 
 | Asset | Price | 24h Change |
 |-------|-------|------------|
-| BTC | $73,482 | +7.4% |
-| ETH | $1,997 | +2.8% |
-| SOL | $85.65 | +3.3% |
-| BNB | $633 | +2.0% |
+| BTC | \$73,482 | +7.4% |
+| ETH | \$1,997 | +2.8% |
+| SOL | \$85.65 | +3.3% |
+| BNB | \$633 | +2.0% |
 
 ---
 
@@ -31,7 +31,7 @@ description: "Your weekly roundup of Bitcoin, crypto markets, blockchain tech, a
 
 ### Bitcoin Roars Back — But Don't Pop the Champagne Yet
 
-It was a week that reminded us why crypto never sleeps. Bitcoin surged nearly 10% from its weekend lows, blowing past $73K on a combination of short-covering, fresh ETF inflows, and a geopolitical backdrop that is — paradoxically — making the case for Bitcoin as a safe-haven asset louder than ever.
+It was a week that reminded us why crypto never sleeps. Bitcoin surged nearly 10% from its weekend lows, blowing past \$73K on a combination of short-covering, fresh ETF inflows, and a geopolitical backdrop that is — paradoxically — making the case for Bitcoin as a safe-haven asset louder than ever.
 
 At the same time, the Fear & Greed Index remains deep in "Extreme Fear" territory, altcoins are stuck near cycle lows, and the Federal Reserve's March 18 rate decision looms large. Let's break down everything that matters this week.
 
@@ -41,9 +41,9 @@ At the same time, the Fear & Greed Index remains deep in "Extreme Fear" territor
 
 | Stat | Value |
 |------|-------|
-| BTC Peak This Week | $73K+ |
-| Spot BTC ETF Inflows | $700M |
-| Liquidations Triggered | $430M |
+| BTC Peak This Week | \$73K+ |
+| Spot BTC ETF Inflows | \$700M |
+| Liquidations Triggered | \$430M |
 | Fear & Greed Index | ~10 |
 
 ---
@@ -54,11 +54,11 @@ At the same time, the Fear & Greed Index remains deep in "Extreme Fear" territor
 
 #### Short Squeeze + Spot Buying Fuels 9% Weekly Rally
 
-Bitcoin opened the week around $65K and powered through $73K by Wednesday — its highest price in three weeks. CoinGlass data shows the move was driven by a rare combination: a classic short squeeze (forcing leveraged bears to buy back) alongside genuine spot accumulation with the Perpetual/Spot Volume Ratio at 7.99. This wasn't just paper gains — real BTC was being bought.
+Bitcoin opened the week around \$65K and powered through \$73K by Wednesday — its highest price in three weeks. CoinGlass data shows the move was driven by a rare combination: a classic short squeeze (forcing leveraged bears to buy back) alongside genuine spot accumulation with the Perpetual/Spot Volume Ratio at 7.99. This wasn't just paper gains — real BTC was being bought.
 
-#### $430M in Liquidations as Bears Got Caught Off Guard
+#### \$430M in Liquidations as Bears Got Caught Off Guard
 
-The rally triggered over $430 million in total crypto liquidations across derivatives markets. Bitcoin and Ether positions accounted for roughly two-thirds of that total — a reminder that excessive short positioning can itself become rocket fuel for a price surge when sentiment shifts.
+The rally triggered over \$430 million in total crypto liquidations across derivatives markets. Bitcoin and Ether positions accounted for roughly two-thirds of that total — a reminder that excessive short positioning can itself become rocket fuel for a price surge when sentiment shifts.
 
 #### Caution: Fear & Greed at "Extreme Fear" — Index Score Near 10
 
@@ -74,7 +74,7 @@ This week's dominant macro story is escalating U.S. military action against IRGC
 
 #### Bitcoin as a Geopolitical Hedge? The Debate Is Back
 
-As cross-asset stress mounts — oil up, sterling down, equities wobbling — Bitcoin's detachment from traditional safe-haven flows is drawing attention. BitMEX co-founder Arthur Hayes raised eyebrows by revising his year-end BTC target to $500K–$750K, citing a thesis that prolonged U.S. military engagement would pressure the Fed into rate cuts and fresh liquidity injections.
+As cross-asset stress mounts — oil up, sterling down, equities wobbling — Bitcoin's detachment from traditional safe-haven flows is drawing attention. BitMEX co-founder Arthur Hayes raised eyebrows by revising his year-end BTC target to \$500K–\$750K, citing a thesis that prolonged U.S. military engagement would pressure the Fed into rate cuts and fresh liquidity injections.
 
 #### March Rate Cut Effectively Off the Table
 
@@ -102,15 +102,15 @@ Two major industry events — the DC Blockchain Summit in Washington and the Dig
 
 ## Institutional Moves
 
-### Nearly $700M Into BTC ETFs — And a Nasdaq-Listed Company Buys 10,000 BTC
+### Nearly \$700M Into BTC ETFs — And a Nasdaq-Listed Company Buys 10,000 BTC
 
-#### Spot Bitcoin ETFs Absorb Nearly $700M in Weekly Inflows
+#### Spot Bitcoin ETFs Absorb Nearly \$700M in Weekly Inflows
 
-After a period of outflows, spot Bitcoin ETFs bounced back with nearly $700 million in net inflows this week as regulatory clarity momentum builds. This is a significant reversal and suggests institutional allocators are using the price dip as an accumulation opportunity rather than an exit.
+After a period of outflows, spot Bitcoin ETFs bounced back with nearly \$700 million in net inflows this week as regulatory clarity momentum builds. This is a significant reversal and suggests institutional allocators are using the price dip as an accumulation opportunity rather than an exit.
 
-#### Nasdaq-Listed EV Firm Announces Deal to Acquire 10,000 BTC (~$1B)
+#### Nasdaq-Listed EV Firm Announces Deal to Acquire 10,000 BTC (~\$1B)
 
-Jiuzi Holdings, a Nasdaq-listed Chinese EV company, announced an agreement to acquire 10,000 Bitcoin worth approximately $1 billion by issuing new shares. The deal — structured as a direct share-for-BTC swap — awaits definitive agreements and regulatory filings. If completed, it joins a growing list of public companies adopting Bitcoin treasury strategies, continuing the trend pioneered by MicroStrategy.
+Jiuzi Holdings, a Nasdaq-listed Chinese EV company, announced an agreement to acquire 10,000 Bitcoin worth approximately \$1 billion by issuing new shares. The deal — structured as a direct share-for-BTC swap — awaits definitive agreements and regulatory filings. If completed, it joins a growing list of public companies adopting Bitcoin treasury strategies, continuing the trend pioneered by MicroStrategy.
 
 ---
 
@@ -138,11 +138,11 @@ Paris Blockchain Week is set for April 15–16, 2026, and this year it's being d
 
 #### Low-Touch Off-Ramps Are the Missing Link for Web3 Adoption
 
-One of the most practical developments in Web3 this year is the emergence of "low-touch off-ramps" — infrastructure that allows users to move value effortlessly between on-chain crypto and everyday fiat rails. As this infrastructure matures, the friction that has kept mainstream users away from DeFi is shrinking. The U.S. DeFi market is forecast to grow at a 67.7% CAGR from 2026 to 2033, potentially reaching $378.8 billion.
+One of the most practical developments in Web3 this year is the emergence of "low-touch off-ramps" — infrastructure that allows users to move value effortlessly between on-chain crypto and everyday fiat rails. As this infrastructure matures, the friction that has kept mainstream users away from DeFi is shrinking. The U.S. DeFi market is forecast to grow at a 67.7% CAGR from 2026 to 2033, potentially reaching \$378.8 billion.
 
-#### Real-World Asset Tokenization: A $95B Opportunity by 2033
+#### Real-World Asset Tokenization: A \$95B Opportunity by 2033
 
-The global asset tokenization sector generated $1.7 billion in revenue in 2025 and is projected to reach $95.4 billion by 2033. Real estate, private credit, commodities, and even intellectual property are being tokenized and traded on-chain — a trend that is pulling institutional players into DeFi who were previously deterred by regulatory uncertainty and technical complexity.
+The global asset tokenization sector generated \$1.7 billion in revenue in 2025 and is projected to reach \$95.4 billion by 2033. Real estate, private credit, commodities, and even intellectual property are being tokenized and traded on-chain — a trend that is pulling institutional players into DeFi who were previously deterred by regulatory uncertainty and technical complexity.
 
 ---
 
@@ -174,7 +174,7 @@ Our consulting team helps businesses and investors build sound crypto strategies
 
 - [CoinDesk — Bitcoin's 5% Spike: Short Covering Analysis](https://www.coindesk.com/markets/2026/03/02/bitcoin-s-5-spike-higher-monday-driven-by-short-covering-not-fresh-buying-says-analyst)
 - [CoinPedia — Top Five Reasons March 2026 Could Shape the Next Crypto Rally](https://coinpedia.org/news/top-five-reasons-march-2026-could-shape-the-next-crypto-rally/)
-- [CoinDesk — Bitcoin Surges Above $68K Amid Iran War](https://www.coindesk.com/markets/2026/03/02/bitcoin-surges-above-usd68-000-amid-muted-stock-market-reaction-to-iran-war)
+- [CoinDesk — Bitcoin Surges Above \$68K Amid Iran War](https://www.coindesk.com/markets/2026/03/02/bitcoin-surges-above-usd68-000-amid-muted-stock-market-reaction-to-iran-war)
 - [InvestingNews — Bitcoin's Rally, Trump's Push for the Clarity Act](https://investingnews.com/cryptocurrency-market-recap/)
 - [CoinSpectator — Paris Blockchain Week 2026](https://coinspectator.com/bitcoin-com/2026/03/05/paris-blockchain-week-2026-why-this-one-actually-matters/)
 - [OpenPR — MST Blockchain Roadmap 2026](https://www.openpr.com/news/4412748/mst-blockchain-unveils-roadmap-2026-outlining-quantum-ready)
